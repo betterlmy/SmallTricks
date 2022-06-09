@@ -4,7 +4,7 @@
 tail -f /var/log/install.log | grep .pkg
 ```
 2. 进入App Store 下载macOS系统, 
-![](img/2022-06-08-13-00-39.png)
+![](img/2022-06-09-14-03-49.png)
 复制拦截到的url  
 macOS12:  
 https://swcdn.apple.com/content/downloads/16/08/012-06873-A_636SHHRD4L/528ojpmw00mulgfjsz9k50modkj31a9v0p/InstallAssistant.pkg  
