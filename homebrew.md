@@ -1,16 +1,25 @@
+# homebrew
+
 ## brew 安装脚本（手动选择软件源）
-/bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"
+
+```bash
+/bin/zsh -c "$(curl -fsSL <https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh>)"
+```
 
 ## brew 卸载脚本
-/bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/HomebrewUninstall.sh)"
+
+```bash
+/bin/zsh -c "$(curl -fsSL <https://gitee.com/cunkai/HomebrewCN/raw/master/HomebrewUninstall.sh>)"
+```
 
 ## 常用命令
-安装软件：brew install xxx
-卸载软件：brew uninstall xxx
-搜索软件：brew search xxx
-更新软件：brew upgrade xxx
-查看列表：brew list
-更新brew：brew update
-清理所有包的旧版本：brew cleanup
-清理指定包的旧版本：brew cleanup $FORMULA
-查看可清理的旧版本包，不执行实际操作：brew cleanup -n
+
+安装软件：`brew install xxx`
+卸载软件：`brew uninstall xxx`
+搜索软件：`brew search xxx`
+更新软件：`brew upgrade xxx`
+查看列表：`brew list`
+更新brew：`brew update`
+清理所有包的旧版本：`brew cleanup`
+清理指定包的旧版本：`brew cleanup $FORMULA`
+查看可清理的旧版本包，不执行实际操作：`brew cleanup -n`
