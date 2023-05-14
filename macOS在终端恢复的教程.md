@@ -14,8 +14,8 @@ tail -f /var/log/install.log | grep .pkg
 macOS12:  
 <https://swcdn.apple.com/content/downloads/18/44/012-51693-A_2W745BUZP7/xtd63whw506llesta7af6cjvcxlyj8mxvf/InstallAssistant.pkg>
 macOS13:  
-<https://swcdn.apple.com/content/downloads/38/13/012-20267-A_8II0GZVCTD/vsifpgvw3a3xjgyznf6415vin9xv7a6ws5/InstallAssistant.pkg>  
-注意 ：上述链接生成于2022年6月8日，建议使用自己拦截到的地址。
+ "https://swcdn.apple.com/content/downloads/37/35/032-66588-A_P5QIYDIIZL/kkuzd39hnskjm12vimzblklo3drb3majbf/InstallAssistant.pkg";
+ 注意 ：上述链接生成于2022年6月8日，建议使用自己拦截到的地址。
 
 ## 进入恢复模式后
 
